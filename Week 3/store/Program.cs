@@ -13,11 +13,11 @@ namespace store
         static void Main(string[] args)
         {
             int option = mainmenu();
-            while (true)
+            while (option != 6)
             {
                 switch (option)
                 {
-                    case 1:
+                        case 1:
                         Console.Write("Enter product name: ");
                         string name = Console.ReadLine();
                         Console.Write("Enter category: ");
@@ -30,28 +30,33 @@ namespace store
                         int remainingquantity = int.Parse(Console.ReadLine());
                         products.Add(new product(name, category, price, quantity,remainingquantity));
                         Console.WriteLine("product Added succesfully");
-                        break;
+                          break;
                         case 2:
                         showproducts();
-                        break;
+                          break;
                         case 3:
-                       Console.WriteLine($"price:{highestprice()}");
+                         Console.WriteLine($"price:{highestprice()}");
                         break;
-                    case 4:
-                        showtax();
-                        break;
+                        case 4:
+                          showtax();
+                          break;
                         case 5:
-                        reorderproduct();
-                        break;
-                       
+                           reorderproduct();
+                            break;
+                        default:
+                           Console.WriteLine("Exit the program");
+                            break;       
                 }
+                Console.ReadKey();
                 option = mainmenu();
+                
 
             }
 
         }
         static int mainmenu()
         {
+            Console.Clear();
             Console.WriteLine("1. Add Product");
             Console.WriteLine("2. View Products");
             Console.WriteLine("3. Highest Price Product");

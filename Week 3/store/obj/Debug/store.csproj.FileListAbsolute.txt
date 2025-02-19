@@ -5,3 +5,10 @@ E:\OOP lab\week 3\store\obj\Debug\store.csproj.AssemblyReference.cache
 E:\OOP lab\week 3\store\obj\Debug\store.csproj.CoreCompileInputs.cache
 E:\OOP lab\week 3\store\obj\Debug\store.exe
 E:\OOP lab\week 3\store\obj\Debug\store.pdb
+D:\CS UET\SEMESTER 2\OOP LAB\Week 3\store\bin\Debug\store.exe.config
+D:\CS UET\SEMESTER 2\OOP LAB\Week 3\store\bin\Debug\store.exe
+D:\CS UET\SEMESTER 2\OOP LAB\Week 3\store\bin\Debug\store.pdb
+D:\CS UET\SEMESTER 2\OOP LAB\Week 3\store\obj\Debug\store.csproj.AssemblyReference.cache
+D:\CS UET\SEMESTER 2\OOP LAB\Week 3\store\obj\Debug\store.csproj.CoreCompileInputs.cache
+D:\CS UET\SEMESTER 2\OOP LAB\Week 3\store\obj\Debug\store.exe
+D:\CS UET\SEMESTER 2\OOP LAB\Week 3\store\obj\Debug\store.pdb

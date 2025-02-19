@@ -10,16 +10,16 @@ namespace task3
     {
         static void Main(string[] args)
         {
-            clockType empty_time=new clockType();
+            clockType empty_time = new clockType();
             Console.WriteLine("empty time:");
             empty_time.printTime();
-            clockType hour_time=new clockType(8);
+            clockType hour_time=new clockType(2);
             Console.WriteLine("hour time:");
             hour_time.printTime();
-            clockType minute_time = new clockType(8, 10);
+            clockType minute_time = new clockType(2, 10);
             Console.WriteLine("minute time");
             minute_time.printTime();
-            clockType full_time = new clockType(8, 10, 10);
+            clockType full_time = new clockType(2, 10, 10);
             Console.WriteLine("full time:");
             full_time.printTime();
             full_time.incrementSecond();

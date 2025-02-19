@@ -1,0 +1,14 @@
+E:\university\semester 2\OOPs lab\week 4\task 1\task 1\bin\Debug\task 1.exe.config
+E:\university\semester 2\OOPs lab\week 4\task 1\task 1\bin\Debug\task 1.exe
+E:\university\semester 2\OOPs lab\week 4\task 1\task 1\bin\Debug\task 1.pdb
+E:\university\semester 2\OOPs lab\week 4\task 1\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+E:\university\semester 2\OOPs lab\week 4\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+E:\university\semester 2\OOPs lab\week 4\task 1\task 1\obj\Debug\task 1.exe
+E:\university\semester 2\OOPs lab\week 4\task 1\task 1\obj\Debug\task 1.pdb
+D:\CS UET\SEMESTER 2\OOP LAB\week 4\task 1\task 1\bin\Debug\task 1.exe.config
+D:\CS UET\SEMESTER 2\OOP LAB\week 4\task 1\task 1\bin\Debug\task 1.exe
+D:\CS UET\SEMESTER 2\OOP LAB\week 4\task 1\task 1\bin\Debug\task 1.pdb
+D:\CS UET\SEMESTER 2\OOP LAB\week 4\task 1\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+D:\CS UET\SEMESTER 2\OOP LAB\week 4\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+D:\CS UET\SEMESTER 2\OOP LAB\week 4\task 1\task 1\obj\Debug\task 1.exe
+D:\CS UET\SEMESTER 2\OOP LAB\week 4\task 1\task 1\obj\Debug\task 1.pdb
