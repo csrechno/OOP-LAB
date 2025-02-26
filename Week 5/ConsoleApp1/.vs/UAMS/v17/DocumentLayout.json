@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|d:\\cs uet\\semester 2\\oop lab\\week 5\\consoleapp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|d:\\cs uet\\semester 2\\oop lab\\week 5\\consoleapp1\\consoleapp1\\dl\\degreedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:consoleapp1\\dl\\degreedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\SubjectUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\UI\\SubjectUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\StudentUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\UI\\StudentUi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\MainUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\UI\\MainUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\DegreeUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\UI\\DegreeUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\DL\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\DL\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\BL\\Subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\BL\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED47372E-5148-4A82-ADE3-D58879D45593}|ConsoleApp1\\UAMS.csproj|solutionrelative:ConsoleApp1\\BL\\Degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "ConsoleApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-26T18:55:49.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectUI.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\SubjectUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UI\\SubjectUI.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\SubjectUI.cs",
+              "RelativeToolTip": "ConsoleApp1\\UI\\SubjectUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:10.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentUi.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\StudentUi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UI\\StudentUi.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\StudentUi.cs",
+              "RelativeToolTip": "ConsoleApp1\\UI\\StudentUi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:09.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainUI.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\MainUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UI\\MainUI.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\MainUI.cs",
+              "RelativeToolTip": "ConsoleApp1\\UI\\MainUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:06.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DegreeUI.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\DegreeUI.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\UI\\DegreeUI.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\UI\\DegreeUI.cs",
+              "RelativeToolTip": "ConsoleApp1\\UI\\DegreeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\DL\\student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DL\\student.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\DL\\student.cs",
+              "RelativeToolTip": "ConsoleApp1\\DL\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DegreeDL.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\DL\\DegreeDL.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DL\\DegreeDL.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\DL\\DegreeDL.cs",
+              "RelativeToolTip": "ConsoleApp1\\DL\\DegreeDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Subjects.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BL\\Subjects.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Subjects.cs",
+              "RelativeToolTip": "ConsoleApp1\\BL\\Subjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:49:00.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BL\\Student.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\BL\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:48:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Degree.cs",
+              "DocumentMoniker": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Degree.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BL\\Degree.cs",
+              "ToolTip": "D:\\CS UET\\SEMESTER 2\\OOP LAB\\Week 5\\ConsoleApp1\\ConsoleApp1\\BL\\Degree.cs",
+              "RelativeToolTip": "ConsoleApp1\\BL\\Degree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:48:57.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
